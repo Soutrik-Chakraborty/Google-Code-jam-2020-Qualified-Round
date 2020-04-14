@@ -1,1 +1,1 @@
-# Google-Code-jam-2020-Qualified-Round
+# Google-Code-jam-2020-Qualification-Round
